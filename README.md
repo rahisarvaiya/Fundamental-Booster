@@ -21,7 +21,40 @@ A Python console application that collects personal information, demonstrates co
 3. Run: `python personal_data_collector.py`
 
 ## Sample Output
-(Include the sample output from above)
+Welcome to Personal Data Collector
+Please enter your information
+Enter your name: Rahi
+Enter your age: 20
+Enter your height in meters: 5.2
+Enter your favourite number: 5
+
+Your Information
+Name: Rahi
+Type: <class 'str'>
+Memory Address: 2312990186912
+
+Age: 20
+Type: <class 'int'>
+Memory Address: 140714489276120
+
+Height: 5.2
+Type: <class 'float'>
+Memory Address: 2312989941136
+
+Favourite Number: 5
+Type: <class 'int'>
+Memory Address: 140714489275640
+
+Your approximate birth year is: 2006
+Height as float: 5.2
+Height as integer: 5
+
+Type Conversion:
+Height was converted from float to int
+New type: <class 'int'>
+
+Thank you for using my program!
+Keep learning Python!
 
 ## Author
-[Your Name]
+rahi sarvaiya
